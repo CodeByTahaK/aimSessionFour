@@ -1,4 +1,4 @@
-# 🤝 aimSessionFour
+# 🤝 Negotiate Bot
 
 **An LLM-powered chatbot that negotiates Facebook Marketplace listings on your behalf.**
 
